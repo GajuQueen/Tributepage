@@ -1,0 +1,40 @@
+
+html{
+    font-size: 16px;
+}
+body{
+    background-color: rgb(206, 203, 203);
+     text-align: center;
+     margin: 0;
+     color: black;
+     line-height: center;
+     font-size: 1.6rem;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    font-size: 1.6rem;
+}
+#img-div{
+    border:1px solid red;
+    margin:20px auto;
+    background:#ffff;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+}
+h2{
+    font-size: 3.25rem;
+}
+a{
+    color: rgb(97, 97, 240);
+}
+#main{
+    width: 97%;
+    margin:20px auto;
+    background: green;
+    padding: 10px;
+    }
+    ul{
+        border:2px dashed brown ;
+        margin: 0 10px;
